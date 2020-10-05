@@ -1,0 +1,1 @@
+this folder will contain our ExpressJS server and SocketIO server with NodeJS doing its thing.
